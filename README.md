@@ -99,18 +99,6 @@
             <td>Mahasiswa</td>
         </tr>
     </table>
-fmAoVS {
-    background-color: rgb(238, 245, 255);
-    position: relative;
-    width: 100%;
-    display: flex
-;
-    -webkit-box-flex: 1;
-    flex-grow: 1;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
 }
 user agent stylesheet
 div {
